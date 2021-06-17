@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Tomer.
+- 👀 I am a backend Software Developer, especially in the backend world, DevOps and technologies.
+- 🌱 I'm currently working as a ASP .Net Core, altough most of my experience is in Java Spring framework.
+- Lately during COVID, and since working became mostly remote, I went on a journey of being a digital nomad.
+- 📫 You can reach me via my email kfir.tomer@gmail.com or via my LinkedIn https://www.linkedin.com/in/tomer-kfir-268a1038/ .
